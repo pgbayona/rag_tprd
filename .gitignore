@@ -1,5 +1,5 @@
 ## .gitignore
-```
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
@@ -15,15 +15,5 @@ venv/
 # System files
 .DS_Store
 Thumbs.db
-```
 
-## requirements.txt
-```
-streamlit
-openai
-pdfplumber
-PyPDF2
-python-docx
-requests
-beautifulsoup4
-```
+
